@@ -1,0 +1,2 @@
+# libmath
+Simple math library
